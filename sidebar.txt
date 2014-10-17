@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crw:home|Door43 (crw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crw|d43-crw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crw/archive/master.zip|d43-crw.zip]]
+
+**Recent Changes**
+{{changes>ns = crw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crw|Ethnologue data]]
+
